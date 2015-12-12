@@ -1,2 +1,1 @@
-<style>дк<Head>Ря
-
+<style>always in <Head>
